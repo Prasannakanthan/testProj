@@ -1,0 +1,13 @@
+input[type="file"]{
+    background-color: red;
+}
+
+input[type="text"]{
+    color: red;
+    border: 1px solid red;
+}
+.blueText{
+    font-size: 40px;
+    color: blue;
+    font-weight: 600;
+}
